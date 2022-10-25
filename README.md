@@ -1,5 +1,4 @@
 # Praktikum3
-# Praktikum 3
 # tugas Program menghitung Luas & Keliling Lingkaran
 Nama: Muhammad Rizky Fauzi <br>
 Nim: 312210317 <br>
